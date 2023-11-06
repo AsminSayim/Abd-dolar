@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\bin\Debug\dolar.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\bin\Debug\dolar.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\bin\Debug\dolar.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dolar\dolar\obj\Debug\dolar.pdb
